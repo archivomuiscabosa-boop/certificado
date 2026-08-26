@@ -1,0 +1,24 @@
+{
+  "hashes_validos": [
+    {
+      "hash": "bcb044e8f54530993b2e3348ccb60e5c0429c798152cd0cd393953fcf07bcecf",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "c29e9e21bb84c6fbd7e6a8bcf71c205799b3bb6303cf2125f03ccf8d902d077d",
+      "fecha_emision": "2026-08-24"
+    },
+    {
+      "hash": "7af133dcf17fce1fa2eeee9ebc4ef41e2166fb141ae13972c3ab1c18586c12f4",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "e8f9c4305aa1cc90bfd96d6b83cf6a1941d1ce68a01e7f637487598cc9497532",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "92b965fa001a390f6280b2379096144fb3545121b7ee5137ad71c6ac19edc833",
+      "fecha_emision": "2026-08-25"
+    }
+  ]
+}
