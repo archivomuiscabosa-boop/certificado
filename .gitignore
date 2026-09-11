@@ -1,0 +1,9 @@
+# Ignorar todo el proyecto por defecto
+*
+
+# Permitir exclusivamente la carpeta pública de validación
+!frontend/
+!frontend/validos.json
+!frontend/validar/
+!frontend/validar/**
+!.gitignore
