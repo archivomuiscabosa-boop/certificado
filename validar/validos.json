@@ -1,1 +1,203 @@
-
+{
+  "hashes_validos": [
+    {
+      "hash": "bcb044e8f54530993b2e3348ccb60e5c0429c798152cd0cd393953fcf07bcecf",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "c29e9e21bb84c6fbd7e6a8bcf71c205799b3bb6303cf2125f03ccf8d902d077d",
+      "fecha_emision": "2026-08-24"
+    },
+    {
+      "hash": "7af133dcf17fce1fa2eeee9ebc4ef41e2166fb141ae13972c3ab1c18586c12f4",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "e8f9c4305aa1cc90bfd96d6b83cf6a1941d1ce68a01e7f637487598cc9497532",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "92b965fa001a390f6280b2379096144fb3545121b7ee5137ad71c6ac19edc833",
+      "fecha_emision": "2026-08-25"
+    },
+    {
+      "hash": "4cff6e4fedd2f81a95973d90a0d72ae50aff6da5b45a99eb4e6ac22ec787a090",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "3e11169199952fa32fe370d09cc11c2f084dd61361d30af4af87795b325e2f1a",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "e92711fd71bb980081db3acfaef9900da53951c927e15abd4c2753a841a28352",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "3e479302d409f46100644cab2c193ffd830280ed2b016abea10b0be107b81ebe",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "42bd5b39455e41fb512a18abe7002e24f7b7fbf0c45d940651639b99feed4a38",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "e14294102e51cf9b7f15d1edde5d47a46ebde598cffa49efd06a0141ff9ebd47",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "559b06e4819c557c67745a9c99ec4986bd4466912d914e0db35e368463c4be40",
+      "fecha_emision": "2026-08-26"
+    },
+    {
+      "hash": "dcddae19c1e9c0ee44bf1206f936f97219217c55a763dff31f6dacf675c1a142",
+      "fecha_emision": "2026-08-27"
+    },
+    {
+      "hash": "e36a4bd8406a92535cbe48c71118567ddf9508c9ec70bab024cebb45fc4b5871",
+      "fecha_emision": "2026-08-27"
+    },
+    {
+      "hash": "6fcd28b48e51d3d4f0d5a05179407d69478532d3f0727439a6cecf937f3c373c",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "d545743341964da95d32f89214f937a17eac68c1e5bc94b45edff5adad4cb282",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "e67be8838278a055d37cb9c775fb186b6109df0fb240315c017f7f1900953bc6",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "8ea8c78bc7935cbf90688735cbec4aa1dba8f7971cf7f03151f9c3024c01687f",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "65ae888a2457683c97b5070e3d4d69cb9528d064c3fd195428c877d2eff00479",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "0e062d82a0bca3444d6cd11edf2346186ef731cb11863f6e65376ad6cae8a96c",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "affa58812ed5badb52d3cf98ddaeabb5ddf344904b105024bb821c94fda4d574",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "e27dd50b2a8b844ce70c4d69daef0840d543328561612af8efccbf87a9d8baeb",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "d4814c46557fbb78dc180af3e7ab44c248d5a99aa128c88c95a4ff3fb186b947",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "700e8055995672e255bc9054eb0768cb1230df6431c30bd0820b65b112780395",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "04e56b119fa23ec866a9c1b81a6f0f84ca5a06b1c8b14e40cb3e6cada2795f89",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "f822baeca3e5759dc0d641fc9140e37fce00a00c091eacd5910b7daf4e299526",
+      "fecha_emision": "2026-08-28"
+    },
+    {
+      "hash": "5530aa9f34c95ee230ae58f6d69c4b78617792bfac879c863abdd206c8955354",
+      "fecha_emision": "2026-08-29"
+    },
+    {
+      "hash": "879d511e472488c085cfb14489031dbdfdcc415fefa59b0408b48c2d57cf38ef",
+      "fecha_emision": "2026-08-30"
+    },
+    {
+      "hash": "1e8c7e362ac800337ed938853a7ee6191ebc498aa54a536680781447070d4b31",
+      "fecha_emision": "2026-08-30"
+    },
+    {
+      "hash": "5e6a6a8e22da4a7ee2d42a94ccd80c5883834e166e85557d974d319b2629b1de",
+      "fecha_emision": "2026-08-31"
+    },
+    {
+      "hash": "e276456d33ff187ffec33a34d88d5e562bddda0e33ac9984809e00e564ca7c0c",
+      "fecha_emision": "2026-09-01"
+    },
+    {
+      "hash": "9a55957223bdcecdfacd78c136ac8bec59ebd36f6cb0dc44aa17d1c5d2363573",
+      "fecha_emision": "2026-09-01"
+    },
+    {
+      "hash": "121bba4667d4cc81c2d64b5fa35dfb0662c9ab805b3f339b8fc1a9f0a2fae3e6",
+      "fecha_emision": "2026-09-01"
+    },
+    {
+      "hash": "17cc79d6c48d9f8bb5642d71810cbc95f135c1bb48921a398dd9d22b94b38bee",
+      "fecha_emision": "2026-09-01"
+    },
+    {
+      "hash": "97074ff435b75013877008be81d2495a530881ab8a8638ff745be241ac1d4197",
+      "fecha_emision": "2026-09-01"
+    },
+    {
+      "hash": "806b5ad56796d1c77ae8d7a7582940fe287938690b1da5ef00ed6a1152a8e8cc",
+      "fecha_emision": "2026-09-02"
+    },
+    {
+      "hash": "7b19c2fd8ffbb7a1c1e9b1f953b3b9af5da0714ad2d988329a65b0be65ff47f9",
+      "fecha_emision": "2026-09-02"
+    },
+    {
+      "hash": "5545966e508517406a0ce36128bd60435318ca1bcef441f694584acf0b7b0b14",
+      "fecha_emision": "2026-09-02"
+    },
+    {
+      "hash": "11bfe5978fcf325502beb9cee7c9ab1ef9822ac174daee44692d1d7874eb9a3d",
+      "fecha_emision": "2026-09-02"
+    },
+    {
+      "hash": "b7e546c8888252240abfe02b1ae1ef566bb9a0b3e41d3f3129bcea7ca1fa8763",
+      "fecha_emision": "2026-09-09"
+    },
+    {
+      "hash": "e5c410971d8acb0454be9185b771472f2928aae3362f276d9a0e0a1da95622b5",
+      "fecha_emision": "2026-09-11"
+    },
+    {
+      "hash": "72eea2e8001183fd2083819056a4102ab972fc1c724206859b7180db9eac61b4",
+      "fecha_emision": "2026-09-11"
+    },
+    {
+      "hash": "cc8c4122a80a1f0ac870bd25b6282c940f853d3cc738eff1e702e9023c13e772",
+      "fecha_emision": "2026-09-11"
+    },
+    {
+      "hash": "425a812f14ce933d92fc512e6832bce88a8342186db099e8169f3711ff8f2c1e",
+      "fecha_emision": "2026-09-11"
+    },
+    {
+      "hash": "6b074539097c4bda2553fa4f2741255c27cba4bef55ac9c012c7c402e1b65556",
+      "fecha_emision": "2026-09-11"
+    },
+    {
+      "hash": "c19ac3b414911ad2020c43e79e7a9751c6fd3c3fc76ac388cca1f1348b78c292",
+      "fecha_emision": "2026-09-13"
+    },
+    {
+      "hash": "bcf0c73a700f3711ec4348cd61c2c550558f84f305df106928fae49f71b59cd0",
+      "fecha_emision": "2026-09-13"
+    },
+    {
+      "hash": "eb83097f466593954fd7ade2632c22c52c78fe1007798e7fa4209923a2500e8b",
+      "fecha_emision": "2026-09-13"
+    },
+    {
+      "hash": "27c63202edbf66f349f8b4ce3f64557d125c3be91925129c47142a2c309c9490",
+      "fecha_emision": "2026-09-13"
+    },
+    {
+      "hash": "d1e8f2dbb608b30f14b2f0055912bd8fde27851859e2c1ddbcd662f74f4c8b75",
+      "fecha_emision": "2026-09-13"
+    }
+  ]
