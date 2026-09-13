@@ -1,9 +1,6 @@
-# Ignorar absolutamente todo por defecto
+# Ignorar todo
 *
 
-# Excepciones: Solo permitir rastrear estos archivos públicos
-!.gitignore
-!frontend/
-!frontend/validos.json
-!frontend/validar/
-!frontend/validar/**
+# Permitir index.html y validos.json
+!index.html
+!validos.json
