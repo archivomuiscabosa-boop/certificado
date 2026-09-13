@@ -179,6 +179,18 @@
     {
       "hash": "6b074539097c4bda2553fa4f2741255c27cba4bef55ac9c012c7c402e1b65556",
       "fecha_emision": "2026-09-11"
+    },
+    {
+      "hash": "c19ac3b414911ad2020c43e79e7a9751c6fd3c3fc76ac388cca1f1348b78c292",
+      "fecha_emision": "2026-09-13"
+    },
+    {
+      "hash": "bcf0c73a700f3711ec4348cd61c2c550558f84f305df106928fae49f71b59cd0",
+      "fecha_emision": "2026-09-13"
+    },
+    {
+      "hash": "eb83097f466593954fd7ade2632c22c52c78fe1007798e7fa4209923a2500e8b",
+      "fecha_emision": "2026-09-13"
     }
   ]
 }
