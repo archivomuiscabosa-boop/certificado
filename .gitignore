@@ -1,8 +1,7 @@
 # Ignorar todo
 *
 
-# Permitir solo los archivos necesarios para GitHub Pages
-!frontend/
+# Permitir solo lo necesario para GitHub Pages
 !frontend/validos.json
 !frontend/validar/
 !frontend/validar/index.html
