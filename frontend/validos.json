@@ -303,6 +303,18 @@
     {
       "hash": "91ae5efb5bd31032a459bd763df3226d676e100b1dfc72bb2beac1964734d4dc",
       "fecha_emision": "2026-09-25"
+    },
+    {
+      "hash": "__init__",
+      "fecha_emision": "2026-09-26"
+    },
+    {
+      "hash": "__init__",
+      "fecha_emision": "2026-09-26"
+    },
+    {
+      "hash": "5192b4aaadd56d90ace80ae506c169a4e179a97ca80d2abb120d18440ec22c9f",
+      "fecha_emision": "2026-09-26"
     }
   ]
 }
