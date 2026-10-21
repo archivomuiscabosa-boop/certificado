@@ -530,8 +530,8 @@
     },
     {
       "hash": "46e7c8a31fd4b1f96fc537aee1524e3aaddbf7a87780916d4ae784daf5eed974",
-      "fecha_emision": "2026-10-16"
-    },
+{
+  "hashes": [
     {
       "hash": "44b906cb0415e102fce57f7c52dd571b77fcc76a34d69256326857fc584bacd2",
       "fecha_emision": "2026-10-16"
@@ -602,6 +602,10 @@
     },
     {
       "hash": "58b75bc0f6470b667fccc64b9c0dbd9b1a21c9b27ab5de79f5f4495c66214fd2",
+      "fecha_emision": "2026-10-21"
+    },
+    {
+      "hash": "07641d2ee2715eb1456fc76accde0e9aaacf89b9476dac52ef73258643c37c12",
       "fecha_emision": "2026-10-21"
     }
   ]
